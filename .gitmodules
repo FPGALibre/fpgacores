@@ -1,0 +1,3 @@
+[submodule "CapSense"]
+	path = CapSense
+	url = https://github.com/INTI-CMNB/CapSense_IP_Core.git
