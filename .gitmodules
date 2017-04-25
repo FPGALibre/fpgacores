@@ -4,3 +4,6 @@
 [submodule "miniuart"]
 	path = miniuart
 	url = https://github.com/INTI-CMNB/MiniUART_IP_core.git
+[submodule "lattice"]
+	path = lattice
+	url = https://github.com/INTI-CMNB/Lattice_FGPA_helpers.git
