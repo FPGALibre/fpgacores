@@ -1,3 +1,6 @@
 [submodule "CapSense"]
 	path = CapSense
 	url = https://github.com/INTI-CMNB/CapSense_IP_Core.git
+[submodule "miniuart"]
+	path = miniuart
+	url = https://github.com/INTI-CMNB/MiniUART_IP_core.git
