@@ -19,3 +19,6 @@
 [submodule "wb_handler"]
 	path = wb_handler
 	url = https://github.com/INTI-CMNB/WISHBONE_Handler_IP_Core.git
+[submodule "SPI"]
+	path = SPI
+	url = https://github.com/INTI-CMNB/SPI_IP_Core.git
