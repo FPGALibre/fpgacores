@@ -16,3 +16,6 @@
 [submodule "utils"]
 	path = utils
 	url = https://github.com/INTI-CMNB/Utilities_for_IP_Cores.git
+[submodule "wb_handler"]
+	path = wb_handler
+	url = https://github.com/INTI-CMNB/WISHBONE_Handler_IP_Core.git
