@@ -22,3 +22,6 @@
 [submodule "SPI"]
 	path = SPI
 	url = https://github.com/INTI-CMNB/SPI_IP_Core.git
+[submodule "AVR/AVR_iCE40"]
+	path = AVR/AVR_iCE40
+	url = https://github.com/INTI-CMNB/AVR_for_iCE40_IP_Core.git
