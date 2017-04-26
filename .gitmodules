@@ -7,3 +7,12 @@
 [submodule "lattice"]
 	path = lattice
 	url = https://github.com/INTI-CMNB/Lattice_FGPA_helpers.git
+[submodule "mems"]
+	path = mems
+	url = https://github.com/INTI-CMNB/Memory_IP_Cores.git
+[submodule "wb_counter"]
+	path = wb_counter
+	url = https://github.com/INTI-CMNB/WISHBONE_Counter_IP_Core.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/INTI-CMNB/Utilities_for_IP_Cores.git
